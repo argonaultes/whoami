@@ -78,7 +78,7 @@ Du développement en Python, Javascript, Java à la gestion d'infrastructure en 
 
 <div>
     <span style="padding-right: 40px">
-        <img style="margin-bottom: 0px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50">
+        <img style="margin-bottom: 0px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" width="50">
     </span>
     <span>
         argonaultes
